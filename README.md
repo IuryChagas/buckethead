@@ -1,5 +1,7 @@
 # The Buckethead
 
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/IuryChagas/buckethead/blob/master/LICENSE.md)
+
 > :guitar: A modern website to honor one of the greatest guitarists of all time.
 
 ## Versioning
