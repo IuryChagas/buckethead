@@ -12,7 +12,21 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 ▸ You can help us develop it! [Follow these recommendations](https://github.com/IuryChagas/buckethead/blob/master/CONTRIBUTING.md).<br>
 ▸ Find on our [Roudmap](https://github.com/IuryChagas/buckethead/issues/) the next steps of the project.<br>
-▸ Follow [The Code Standards Guide](https://github.com/IuryChagas/style-guide-compilation#directory-structure "Guia Basico de Estilo HTML e CSS"), This is your reference to code like us.
+▸ Follow The [Code Standards Guide](https://github.com/IuryChagas/style-guide-compilation#directory-structure "Guia Basico de Estilo HTML e CSS"), This is your reference to code like us.
+
+## Folders and Files
+
+```sh
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE.md
+└──:src
+    ├──:css/*
+    ├──:img/*
+    ├──:js/*
+    └── index.html
+```
+Those folders and file will change during the project.
 
 ## License
 
