@@ -1,3 +1,5 @@
+<p align="center"><img src="src/img/logo-rm.png" alt="Buckethead poster: Author Greg Sellars"></p>
+
 <h1 align="center">The Buckethead</h1>
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/IuryChagas/buckethead/blob/master/LICENSE.md)
