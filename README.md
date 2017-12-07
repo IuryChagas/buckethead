@@ -22,23 +22,27 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE.md
-├──:build
-│    ├──:css
-│    │   └── main.css
-│    ├──:img
-│    │   └── logo-rm.png
-│    ├──:js
-│    │   └── main.js
-│    └── index.html
 └──:src
     ├──:img
+    │   └── logo-rm.png
     ├──:js
+    │   └── main.js
     └──:styl
-    	├──:base
-    	├──:components
-    	├──:layout
-    	├──:states
-        └──:template
+       ├──:base
+       │   ├── reset.styl
+       │   ├── colors.styl
+       │   └── global.styl
+       ├──:layout
+       │   ├── main.styl
+       │   ├── header.styl
+       │   ├── menu.styl
+       │   └── footer.styl
+       ├──:components
+       │   ├── navbar.styl
+       │   └── submit-btn.styl
+       ├──:state
+       └──:template
+           └── main.styl
 ```
 Those folders and file will change during the project.
 
