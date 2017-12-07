@@ -22,11 +22,23 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE.md
+├──:build
+│    ├──:css
+│    │   └── main.css
+│    ├──:img
+│    │   └── logo-rm.png
+│    ├──:js
+│    │   └── main.js
+│    └── index.html
 └──:src
-    ├──:css/*
-    ├──:img/*
-    ├──:js/*
-    └── index.html
+    ├──:img
+    ├──:js
+    └──:styl
+    	├──:base
+    	├──:components
+    	├──:layout
+    	├──:states
+        └──:template
 ```
 Those folders and file will change during the project.
 
